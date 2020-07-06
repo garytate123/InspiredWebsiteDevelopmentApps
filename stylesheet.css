@@ -1,0 +1,125 @@
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif; */
+
+/* font-family: 'Dawning of a New Day', cursive; */
+
+/* font-family: 'Over the Rainbow', cursive; */
+
+body {
+    font-family: Montserrat;
+}
+
+.container-fluid {
+    padding: 0% 25%;
+}
+
+
+/* ===============NAVBAR=============== */
+
+.navbar {
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.nav-item {
+    padding: 0px 4px;
+    text-align: center;
+}
+
+.logo {
+    text-align: center;
+    line-height: 1;
+    margin-left: 10%;
+    margin-bottom: 0px;
+}
+    
+.logoTitle {
+    font-size: 4em;
+    margin-bottom: 0px;
+}
+    
+.logoSubTitle {
+    font-size: 1.4em;
+    margin-bottom: 0px;
+}
+
+
+/* ===============Intor section=============== */
+
+.intro-section {
+background-color: #74dde8;
+width: 100%;
+margin-bottom: 0px;
+padding-bottom: 5%;
+}
+
+.ccc-box {
+    text-align: center;
+}
+.ccc-text {
+    font-family: Dawning of a New Day;
+    font-size: 3rem;
+    padding-top: 70px;
+    margin-bottom: 0px;
+    
+}
+
+.ccc-title {
+    color: white;
+    font-family: Montserrat;
+    font-weight: 800;
+    font-size: 2.9rem;
+    padding-bottom: 5%;
+    margin-bottom: 0px;
+    
+}
+
+.text-darker {
+    color: #598085;
+}
+.jumbotron {
+    text-align: center;
+    padding-bottom: 5%;
+    position: relative;
+}
+
+.text-highlight {
+    color: #0091a1;
+}
+
+.proPic {    
+    height: 225px;
+    width: 225px;
+    float: left;
+    
+}
+
+.hiThereText {
+    font-family: Dawning of a New Day;
+    padding-top: 10%;
+    padding-bottom: 5%;
+    font-size: 6rem;
+}
+
+.intro-text {
+    padding: 0% 10%;
+}
+
+
+
+
+
+
+
+/* ===============footer===============   */
+
+.footer-section {
+    background-color: #343a40;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    padding-top: 60px;
+    color: white;
+    margin-top: 0;
+}
